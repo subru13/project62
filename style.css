@@ -1,0 +1,31 @@
+img{
+    height: 350px;
+    width: 350px;
+    margin-left: 15px;
+}
+
+#hpwordart{
+    height: 400px;
+    width: 900px;
+}
+
+.line{
+    width: 80px;
+    height: 5px;
+    color: black;
+    border-radius: 10px;
+}
+
+body{
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+
+h1{
+    font-variant: small-caps;
+}
+
+p{
+    font-family:monospace;
+    font-size: 25;
+}
